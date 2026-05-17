@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=JAVIER%20MORENO&fontColor=ffffff&fontSize=58&fontAlignY=42&desc=DATA%20%C2%B7%20SCIENCE%20%C2%B7%20MADRID&descAlignY=68&descSize=14&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=JAVIER%20MORENOSA&fontColor=ffffff&fontSize=54&fontAlignY=42&desc=DATA%20%C2%B7%20SCIENCE%20%C2%B7%20MADRID&descAlignY=68&descSize=14&animation=fadeIn" width="100%"/>
 
 <br>
 
@@ -12,24 +12,10 @@
 
 <br><br>
 
-<table>
-<tr>
-  <td><sub><b>SYS.STATUS</b></sub></td>
-  <td><sub>online &middot; awake &middot; learning</sub></td>
-</tr>
-<tr>
-  <td><sub><b>LOCATION</b></sub></td>
-  <td><sub>40.4168° N &middot; 3.7038° W &middot; Madrid</sub></td>
-</tr>
-<tr>
-  <td><sub><b>STACK</b></sub></td>
-  <td><sub>python &middot; pytorch &middot; mcp &middot; langchain &middot; fastapi</sub></td>
-</tr>
-<tr>
-  <td><sub><b>FOCUS</b></sub></td>
-  <td><sub>LLMs &nbsp;//&nbsp; Reinforcement Learning &nbsp;//&nbsp; Retrieval</sub></td>
-</tr>
-</table>
+<b>SYS.STATUS</b> &nbsp;&middot;&nbsp; online &middot; awake &middot; learning <br>
+<b>LOCATION</b> &nbsp;&middot;&nbsp; 40.4168° N &middot; 3.7038° W &middot; Madrid <br>
+<b>STACK</b> &nbsp;&middot;&nbsp; python &middot; pytorch &middot; mcp &middot; langchain &middot; fastapi <br>
+<b>FOCUS</b> &nbsp;&middot;&nbsp; LLMs &nbsp;//&nbsp; Reinforcement Learning &nbsp;//&nbsp; Retrieval
 
 </div>
 
@@ -37,41 +23,27 @@
 
 ## ▌ CURRENTS
 
-<table>
-<tr>
-<td width="25%" align="center"><b>◢ LLMs</b><br><sub>prompt optimization</sub></td>
-<td width="25%" align="center"><b>◢ RL</b><br><sub>online &middot; human-in-the-loop</sub></td>
-<td width="25%" align="center"><b>◢ RAG</b><br><sub>retrieval &middot; rerankers</sub></td>
-<td width="25%" align="center"><b>◢ MCP</b><br><sub>agent tooling</sub></td>
-</tr>
-</table>
+<div align="center">
+
+<b>◢ LLMs</b> &nbsp;·&nbsp; prompt optimization &nbsp;&nbsp;&nbsp;&nbsp; <b>◢ RL</b> &nbsp;·&nbsp; online &middot; human-in-the-loop
+
+<br>
+
+<b>◢ RAG</b> &nbsp;·&nbsp; retrieval &middot; rerankers &nbsp;&nbsp;&nbsp;&nbsp; <b>◢ MCP</b> &nbsp;·&nbsp; agent tooling
+
+</div>
 
 <br>
 
 ## ▌ TRANSMISSIONS
 
-<table>
-<tr>
-  <td><b>▸&nbsp;<a href="https://github.com/Javier-Morenosa/RLprompt">RLprompt</a></b></td>
-  <td>online RL for system-prompt refinement</td>
-  <td><sub><a href="https://pypi.org/project/prompt-rl/">pip install prompt-rl</a></sub></td>
-</tr>
-<tr>
-  <td><b>▸&nbsp;<a href="https://github.com/Javier-Morenosa/code-quality-mcp">code-quality-mcp</a></b></td>
-  <td>static analysis as an MCP server</td>
-  <td><sub>flake8 &middot; mypy &middot; mccabe</sub></td>
-</tr>
-<tr>
-  <td><b>▸&nbsp;<a href="https://github.com/Javier-Morenosa/Iterative-shifting-disaggregation">Iterative-shifting-disaggregation</a></b></td>
-  <td>ISD algorithm for time-series</td>
-  <td><sub>numerical methods</sub></td>
-</tr>
-<tr>
-  <td><b>▸&nbsp;<a href="https://github.com/Javier-Morenosa/reranker-research">reranker-research</a></b></td>
-  <td>retrieval rerankers · notes & experiments</td>
-  <td><sub>RAG research</sub></td>
-</tr>
-</table>
+›&nbsp; **[RLprompt](https://github.com/Javier-Morenosa/RLprompt)** &nbsp;—&nbsp; online RL for system-prompt refinement &nbsp;·&nbsp; <sub>[pip install prompt-rl](https://pypi.org/project/prompt-rl/)</sub>
+
+›&nbsp; **[code-quality-mcp](https://github.com/Javier-Morenosa/code-quality-mcp)** &nbsp;—&nbsp; static analysis as an MCP server &nbsp;·&nbsp; <sub>flake8 &middot; mypy &middot; mccabe</sub>
+
+›&nbsp; **[Iterative-shifting-disaggregation](https://github.com/Javier-Morenosa/Iterative-shifting-disaggregation)** &nbsp;—&nbsp; the ISD algorithm for time-series
+
+›&nbsp; **[reranker-research](https://github.com/Javier-Morenosa/reranker-research)** &nbsp;—&nbsp; retrieval rerankers &middot; notes & experiments
 
 <br>
 
