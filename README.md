@@ -2,9 +2,7 @@
 
 <br>
 
-# Javier Morenosa
-
-<sub>Data scientist · Madrid</sub>
+<img src="./name.svg" alt="Javier Morenosa — data scientist, Madrid" width="520">
 
 <br>
 

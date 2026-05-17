@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="160" viewBox="0 0 780 160">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400&amp;display=swap');
+      .name { font-family: 'Fraunces', 'EB Garamond', Georgia, serif; font-weight: 300; font-size: 64px; letter-spacing: -0.015em; }
+      .sub  { font-family: 'Fraunces', 'EB Garamond', Georgia, serif; font-weight: 400; font-size: 12px; letter-spacing: 0.35em; text-transform: uppercase; }
+      .name, .sub, .rule { fill: #1f2328; stroke: #1f2328; }
+      @media (prefers-color-scheme: dark) {
+        .name, .sub, .rule { fill: #f0f6fc; stroke: #f0f6fc; }
+      }
+    </style>
+  </defs>
+  <text x="390" y="78" text-anchor="middle" class="name">Javier Morenosa</text>
+  <line x1="330" y1="100" x2="450" y2="100" class="rule" stroke-width="0.75"/>
+  <text x="390" y="128" text-anchor="middle" class="sub">data scientist &#183; madrid</text>
+</svg>
