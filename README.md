@@ -4,24 +4,34 @@
 
 <br>
 
-<a href="https://github.com/Javier-Morenosa">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=8AB4F8&center=true&vCenter=true&width=720&lines=%3E+initializing+system...;%3E+building+tools+for+LLMs+__;%3E+teaching+prompts+to+learn+from+humans+__;%3E+chasing+signal+in+the+latent+space+__" alt="typing"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=8AB4F8&center=true&vCenter=true&width=720&lines=%3E+initializing+system...;%3E+building+tools+for+LLMs+__;%3E+teaching+prompts+to+learn+from+humans+__;%3E+chasing+signal+in+the+latent+space+__" alt="typing"/>
 
 <br><br>
 
-`◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤`
+<sub>◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤</sub>
+
+<br><br>
+
+<table>
+<tr>
+  <td><sub><b>SYS.STATUS</b></sub></td>
+  <td><sub>online &middot; awake &middot; learning</sub></td>
+</tr>
+<tr>
+  <td><sub><b>LOCATION</b></sub></td>
+  <td><sub>40.4168° N &middot; 3.7038° W &middot; Madrid</sub></td>
+</tr>
+<tr>
+  <td><sub><b>STACK</b></sub></td>
+  <td><sub>python &middot; pytorch &middot; mcp &middot; langchain &middot; fastapi</sub></td>
+</tr>
+<tr>
+  <td><sub><b>FOCUS</b></sub></td>
+  <td><sub>LLMs &nbsp;//&nbsp; Reinforcement Learning &nbsp;//&nbsp; Retrieval</sub></td>
+</tr>
+</table>
 
 </div>
-
-<br>
-
-```ansi
-[SYS.STATUS]  online · awake · learning
-[LOCATION ]   40.4168° N · 3.7038° W · Madrid
-[STACK    ]   python · pytorch · mcp · langchain · fastapi
-[FOCUS    ]   LLMs // Reinforcement Learning // Retrieval
-```
 
 <br>
 
@@ -29,10 +39,10 @@
 
 <table>
 <tr>
-<td width="25%" align="center"><sub><b>◢ LLMs</b></sub><br><sub>prompt optimization</sub></td>
-<td width="25%" align="center"><sub><b>◢ RL</b></sub><br><sub>online · HITL</sub></td>
-<td width="25%" align="center"><sub><b>◢ RAG</b></sub><br><sub>retrieval · rerankers</sub></td>
-<td width="25%" align="center"><sub><b>◢ MCP</b></sub><br><sub>agent tooling</sub></td>
+<td width="25%" align="center"><b>◢ LLMs</b><br><sub>prompt optimization</sub></td>
+<td width="25%" align="center"><b>◢ RL</b><br><sub>online &middot; human-in-the-loop</sub></td>
+<td width="25%" align="center"><b>◢ RAG</b><br><sub>retrieval &middot; rerankers</sub></td>
+<td width="25%" align="center"><b>◢ MCP</b><br><sub>agent tooling</sub></td>
 </tr>
 </table>
 
@@ -40,19 +50,28 @@
 
 ## ▌ TRANSMISSIONS
 
-```
-▸  RLprompt                        online RL for system-prompt refinement
-   └─ pip install prompt-rl        github.com/Javier-Morenosa/RLprompt
-
-▸  code-quality-mcp                static analysis as an MCP server
-   └─ flake8 · mypy · mccabe       github.com/Javier-Morenosa/code-quality-mcp
-
-▸  Iterative-shifting-disaggreg.   ISD algorithm · time-series
-   └─                              github.com/Javier-Morenosa/Iterative-shifting-disaggregation
-
-▸  reranker-research               retrieval rerankers · notes & experiments
-   └─                              github.com/Javier-Morenosa/reranker-research
-```
+<table>
+<tr>
+  <td><b>▸&nbsp;<a href="https://github.com/Javier-Morenosa/RLprompt">RLprompt</a></b></td>
+  <td>online RL for system-prompt refinement</td>
+  <td><sub><a href="https://pypi.org/project/prompt-rl/">pip install prompt-rl</a></sub></td>
+</tr>
+<tr>
+  <td><b>▸&nbsp;<a href="https://github.com/Javier-Morenosa/code-quality-mcp">code-quality-mcp</a></b></td>
+  <td>static analysis as an MCP server</td>
+  <td><sub>flake8 &middot; mypy &middot; mccabe</sub></td>
+</tr>
+<tr>
+  <td><b>▸&nbsp;<a href="https://github.com/Javier-Morenosa/Iterative-shifting-disaggregation">Iterative-shifting-disaggregation</a></b></td>
+  <td>ISD algorithm for time-series</td>
+  <td><sub>numerical methods</sub></td>
+</tr>
+<tr>
+  <td><b>▸&nbsp;<a href="https://github.com/Javier-Morenosa/reranker-research">reranker-research</a></b></td>
+  <td>retrieval rerankers · notes & experiments</td>
+  <td><sub>RAG research</sub></td>
+</tr>
+</table>
 
 <br>
 
@@ -71,18 +90,18 @@
 
 <div align="center">
 
-`◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤`
+<sub>◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤</sub>
 
-<br>
+<br><br>
 
 <sub>
-[ <a href="https://www.linkedin.com/in/javiersanchezmoreno">LINKEDIN</a> ] &nbsp;·&nbsp;
-[ <a href="https://orcid.org/0009-0007-3999-0100">ORCID</a> ] &nbsp;·&nbsp;
+[ <a href="https://www.linkedin.com/in/javiersanchezmoreno">LINKEDIN</a> ] &nbsp;&middot;&nbsp;
+[ <a href="https://orcid.org/0009-0007-3999-0100">ORCID</a> ] &nbsp;&middot;&nbsp;
 [ <a href="https://pypi.org/project/prompt-rl/">PYPI</a> ]
 </sub>
 
 <br><br>
 
-<sub><i>// transmitting from Madrid · always online</i></sub>
+<sub><i>// transmitting from Madrid &middot; always online</i></sub>
 
 </div>
