@@ -1,38 +1,60 @@
-<h1 align="center">Hi, I'm Javier 👋</h1>
-<p align="center">
-  <b>Data Scientist @ Madrid · LLMs · Reinforcement Learning · RAG</b>
-</p>
+<div align="center">
+<br><br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/javiersanchezmoreno"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square"></a>
-  <a href="https://orcid.org/0009-0007-3999-0100"><img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white&style=flat-square"></a>
-  <a href="https://pypi.org/project/prompt-rl/"><img src="https://img.shields.io/pypi/v/prompt-rl?label=prompt-rl&logo=pypi&logoColor=white&style=flat-square"></a>
-</p>
+# `J A V I E R · M O R E N O`
+
+<sub>D A T A   ·   S C I E N C E   ·   M A D R I D</sub>
+
+<br>
+
+*«The model is not the territory —*
+*but with enough feedback, it learns to walk it.»*
+
+<br>
+
+```
+                    ·  ·  ·
+```
+
+<br>
+</div>
+
+### ◌ &nbsp; Currents
+
+`LLMs` &nbsp; · &nbsp; `Reinforcement Learning` &nbsp; · &nbsp; `Retrieval & RAG` &nbsp; · &nbsp; `MCP`
+
+<br>
+
+### ◌ &nbsp; Work
+
+›&nbsp; **[RLprompt](https://github.com/Javier-Morenosa/RLprompt)** &nbsp;—&nbsp; online RL for system-prompt refinement &nbsp;·&nbsp; [`pip install prompt-rl`](https://pypi.org/project/prompt-rl/)
+
+›&nbsp; **[code-quality-mcp](https://github.com/Javier-Morenosa/code-quality-mcp)** &nbsp;—&nbsp; static analysis as an MCP server for LLM agents
+
+›&nbsp; **[Iterative-shifting-disaggregation](https://github.com/Javier-Morenosa/Iterative-shifting-disaggregation)** &nbsp;—&nbsp; the ISD algorithm for time-series
+
+›&nbsp; **[reranker-research](https://github.com/Javier-Morenosa/reranker-research)** &nbsp;—&nbsp; notes & experiments on retrieval rerankers
+
+<br>
+
+### ◌ &nbsp; Stack
+
+<sub>`python` &nbsp;·&nbsp; `pytorch` &nbsp;·&nbsp; `langchain` &nbsp;·&nbsp; `mcp` &nbsp;·&nbsp; `fastapi` &nbsp;·&nbsp; `playwright` &nbsp;·&nbsp; `anthropic` &nbsp;·&nbsp; `openai`</sub>
+
+<br>
 
 ---
 
-### 🚀 What I work on
+<div align="center">
 
-- **Prompt optimization with RL** — closing the loop between human feedback and prompt refinement.
-- **LLM tooling** — building MCP servers and dev-time tools that make LLM workflows reproducible.
-- **Retrieval & rerankers** — research on retrieval quality for RAG pipelines.
+<sub>
+<a href="https://www.linkedin.com/in/javiersanchezmoreno">linkedin</a> &nbsp; · &nbsp;
+<a href="https://orcid.org/0009-0007-3999-0100">orcid</a> &nbsp; · &nbsp;
+<a href="https://pypi.org/project/prompt-rl/">pypi</a>
+</sub>
 
-### 🧰 Stack
+<br><br>
 
-`Python` · `PyTorch` · `LangChain` · `MCP` · `OpenAI / Anthropic SDKs` · `FastAPI` · `Playwright`
+<sub><i>Built quietly in Madrid.</i></sub>
 
-### 📌 Featured projects
-
-| Project | What it does |
-|---|---|
-| **[RLprompt](https://github.com/Javier-Morenosa/RLprompt)** · [PyPI](https://pypi.org/project/prompt-rl/) | Online RL framework for system-prompt refinement. Human-in-the-loop Perception Cycle + TwoStageCritic. |
-| **[code-quality-mcp](https://github.com/Javier-Morenosa/code-quality-mcp)** | MCP server exposing flake8, mypy, McCabe and vulture to LLM agents. |
-| **[Iterative-shifting-disaggregation](https://github.com/Javier-Morenosa/Iterative-shifting-disaggregation)** | Python implementation of the ISD algorithm for time-series disaggregation. |
-| **[reranker-research](https://github.com/Javier-Morenosa/reranker-research)** | Personal research on rerankers for retrieval / RAG. |
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Javier-Morenosa&show_icons=true&hide_border=true&hide=issues&theme=default" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javier-Morenosa&layout=compact&hide_border=true&theme=default" height="160">
-</p>
+</div>
