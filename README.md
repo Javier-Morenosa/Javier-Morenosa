@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="./name.svg" alt="Javier Morenosa — data scientist, Madrid" width="520">
+<img src="./name.svg" alt="Javier Morenosa — AI Engineer, Madrid" width="520">
 
 <br>
 
