@@ -28,6 +28,26 @@ Implementation of the ISD algorithm for decomposing aggregated time-series into 
 **[reranker-research](https://github.com/Javier-Morenosa/reranker-research)**
 Ongoing notes and experiments on rerankers for retrieval and RAG pipelines.
 
+**[classifier-optimizer](https://github.com/Javier-Morenosa/classifier-optimizer)**
+DSPy-based classifier optimization where the evaluation metric is a first-class variable, not an afterthought.
+
+**[llm-migration-prompt-optimizer](https://github.com/Javier-Morenosa/llm-migration-prompt-optimizer)**
+Can prompt optimization close the gap when migrating between LLM versions? A DSPy/GEPA study on structured extraction tasks.
+
+**[structllm](https://github.com/Javier-Morenosa/structllm)**
+Structured outputs and logprob inspection for open LLMs.
+
+**[MCP-servers](https://github.com/Javier-Morenosa/MCP-servers)**
+Collection of Model Context Protocol servers for LLM tooling.
+
+### Writing
+
+**[blog-vue](https://github.com/Javier-Morenosa/blog-vue)** — Personal blog on NLP, LLM agents, and retrieval. 20+ technical posts.
+
+### Research notes
+
+**[axioma-labs-public](https://github.com/Javier-Morenosa/axioma-labs-public)** — Selected research notes from Axioma Labs, a private multi-agent LLM research firm (42+ cycles, 1.6M tokens audited).
+
 ### Currently
 
 Building tooling around evaluation and feedback loops for LLM applications. Open to conversations with teams thinking seriously about the same problems.
